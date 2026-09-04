@@ -17,4 +17,4 @@ Um gerador de senhas simples, leve e seguro desenvolvido em Python utilizando Tk
 3. Abra o terminal na pasta do projeto e execute:
 
 ```bash
-python main.py
+python pass-gen.py
